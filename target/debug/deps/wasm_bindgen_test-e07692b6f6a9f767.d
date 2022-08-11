@@ -1,9 +1,0 @@
-/Users/philippgassner/Desktop/snake/target/debug/deps/wasm_bindgen_test-e07692b6f6a9f767.rmeta: /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/lib.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/mod.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/browser.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/detect.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/node.rs
-
-/Users/philippgassner/Desktop/snake/target/debug/deps/wasm_bindgen_test-e07692b6f6a9f767.d: /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/lib.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/mod.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/browser.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/detect.rs /Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/node.rs
-
-/Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/lib.rs:
-/Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/mod.rs:
-/Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/browser.rs:
-/Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/detect.rs:
-/Users/philippgassner/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.32/src/rt/node.rs:
